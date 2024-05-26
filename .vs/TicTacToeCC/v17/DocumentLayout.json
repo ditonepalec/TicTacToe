@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE185DC6-F2BB-482A-90DF-0B312C7B270B}|TicTacToeCC\\TicTacToeCC.csproj|c:\\users\\ditonepaalec\\source\\repos\\tictactoecc\\tictactoecc\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{DE185DC6-F2BB-482A-90DF-0B312C7B270B}|TicTacToeCC\\TicTacToeCC.csproj|solutionrelative:tictactoecc\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE185DC6-F2BB-482A-90DF-0B312C7B270B}|TicTacToeCC\\TicTacToeCC.csproj|c:\\users\\ditonepaalec\\source\\repos\\tictactoecc\\tictactoecc\\boardelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE185DC6-F2BB-482A-90DF-0B312C7B270B}|TicTacToeCC\\TicTacToeCC.csproj|solutionrelative:tictactoecc\\boardelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE185DC6-F2BB-482A-90DF-0B312C7B270B}|TicTacToeCC\\TicTacToeCC.csproj|C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\tictactoecc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE185DC6-F2BB-482A-90DF-0B312C7B270B}|TicTacToeCC\\TicTacToeCC.csproj|solutionrelative:tictactoecc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE185DC6-F2BB-482A-90DF-0B312C7B270B}|TicTacToeCC\\TicTacToeCC.csproj|C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\tictactoecc\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE185DC6-F2BB-482A-90DF-0B312C7B270B}|TicTacToeCC\\TicTacToeCC.csproj|solutionrelative:tictactoecc\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE185DC6-F2BB-482A-90DF-0B312C7B270B}|TicTacToeCC\\TicTacToeCC.csproj|C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\tictactoecc\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE185DC6-F2BB-482A-90DF-0B312C7B270B}|TicTacToeCC\\TicTacToeCC.csproj|solutionrelative:tictactoecc\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE185DC6-F2BB-482A-90DF-0B312C7B270B}|TicTacToeCC\\TicTacToeCC.csproj|C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\tictactoecc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE185DC6-F2BB-482A-90DF-0B312C7B270B}|TicTacToeCC\\TicTacToeCC.csproj|solutionrelative:tictactoecc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE185DC6-F2BB-482A-90DF-0B312C7B270B}|TicTacToeCC\\TicTacToeCC.csproj|C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\tictactoecc\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE185DC6-F2BB-482A-90DF-0B312C7B270B}|TicTacToeCC\\TicTacToeCC.csproj|solutionrelative:tictactoecc\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE185DC6-F2BB-482A-90DF-0B312C7B270B}|TicTacToeCC\\TicTacToeCC.csproj|C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\tictactoecc\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE185DC6-F2BB-482A-90DF-0B312C7B270B}|TicTacToeCC\\TicTacToeCC.csproj|solutionrelative:tictactoecc\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoardElement.cs",
+              "DocumentMoniker": "C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\TicTacToeCC\\BoardElement.cs",
+              "RelativeDocumentMoniker": "TicTacToeCC\\BoardElement.cs",
+              "ToolTip": "C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\TicTacToeCC\\BoardElement.cs",
+              "RelativeToolTip": "TicTacToeCC\\BoardElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T11:24:58.265Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\TicTacToeCC\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "TicTacToeCC\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\TicTacToeCC\\ClassDiagram1.cd",
+              "RelativeToolTip": "TicTacToeCC\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-26T14:02:45.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\TicTacToeCC\\Form1.cs",
+              "RelativeDocumentMoniker": "TicTacToeCC\\Form1.cs",
+              "ToolTip": "C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\TicTacToeCC\\Form1.cs",
+              "RelativeToolTip": "TicTacToeCC\\Form1.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwCMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:34:42.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\TicTacToeCC\\Player.cs",
+              "RelativeDocumentMoniker": "TicTacToeCC\\Player.cs",
+              "ToolTip": "C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\TicTacToeCC\\Player.cs",
+              "RelativeToolTip": "TicTacToeCC\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:17:54.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\TicTacToeCC\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TicTacToeCC\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\TicTacToeCC\\Form1.Designer.cs",
+              "RelativeToolTip": "TicTacToeCC\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:38:04.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\TicTacToeCC\\Game.cs",
+              "RelativeDocumentMoniker": "TicTacToeCC\\Game.cs",
+              "ToolTip": "C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\TicTacToeCC\\Game.cs",
+              "RelativeToolTip": "TicTacToeCC\\Game.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:38:53.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\TicTacToeCC\\Board.cs",
+              "RelativeDocumentMoniker": "TicTacToeCC\\Board.cs",
+              "ToolTip": "C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\TicTacToeCC\\Board.cs",
+              "RelativeToolTip": "TicTacToeCC\\Board.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwCcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:39:58.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\TicTacToeCC\\Program.cs",
+              "RelativeDocumentMoniker": "TicTacToeCC\\Program.cs",
+              "ToolTip": "C:\\Users\\ditonepaalec\\source\\repos\\TicTacToeCC\\TicTacToeCC\\Program.cs",
+              "RelativeToolTip": "TicTacToeCC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:34:49.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

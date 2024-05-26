@@ -1,0 +1,10 @@
+C:\Users\ditonepaalec\source\repos\TicTacToeCC\TicTacToeCC\bin\Debug\TicTacToeCC.exe.config
+C:\Users\ditonepaalec\source\repos\TicTacToeCC\TicTacToeCC\bin\Debug\TicTacToeCC.exe
+C:\Users\ditonepaalec\source\repos\TicTacToeCC\TicTacToeCC\bin\Debug\TicTacToeCC.pdb
+C:\Users\ditonepaalec\source\repos\TicTacToeCC\TicTacToeCC\obj\Debug\TicTacToeCC.csproj.AssemblyReference.cache
+C:\Users\ditonepaalec\source\repos\TicTacToeCC\TicTacToeCC\obj\Debug\TicTacToeCC.Form1.resources
+C:\Users\ditonepaalec\source\repos\TicTacToeCC\TicTacToeCC\obj\Debug\TicTacToeCC.Properties.Resources.resources
+C:\Users\ditonepaalec\source\repos\TicTacToeCC\TicTacToeCC\obj\Debug\TicTacToeCC.csproj.GenerateResource.cache
+C:\Users\ditonepaalec\source\repos\TicTacToeCC\TicTacToeCC\obj\Debug\TicTacToeCC.csproj.CoreCompileInputs.cache
+C:\Users\ditonepaalec\source\repos\TicTacToeCC\TicTacToeCC\obj\Debug\TicTacToeCC.exe
+C:\Users\ditonepaalec\source\repos\TicTacToeCC\TicTacToeCC\obj\Debug\TicTacToeCC.pdb
